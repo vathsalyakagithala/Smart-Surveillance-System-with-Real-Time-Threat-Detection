@@ -181,20 +181,6 @@ if selected == "About":
     """, unsafe_allow_html=True)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Video Detection Section
 elif selected == "Video Detection":
     st.markdown("<h1 style='color:#02ab21;'>Objects Detection In Video</h1>", unsafe_allow_html=True)
